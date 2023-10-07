@@ -40,6 +40,4 @@ _______________________________________________________
 ![Leonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonamh10&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonamh10&layout=compact&theme=dracula)
 
-![Snake animation](https://github.com/leonamh10/leonamh10/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=leonamh10&repo=leonamh10&theme=react)](https://github.com/artur-debv/artur-debv)
