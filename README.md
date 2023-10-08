@@ -1,12 +1,12 @@
 
 
-<div style="text-align:center;margin-left:350px>
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=45&center=true&vCenter=true&width=1000&lines=SEJA+BEM-VINDO+!+!+!+:%29)](https://git.io/typing-svg)
  &nbsp;
  &nbsp;
 
- </div>
+
 
 
 ### Olá, meu nome é Leonam Henrique! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> 
