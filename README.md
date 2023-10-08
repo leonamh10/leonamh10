@@ -1,9 +1,5 @@
 
 
-
-
-
-
 <div style="text-align:center;margin-left:350px>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SEJA+BEM-VINDO+!+!+!)
@@ -13,7 +9,7 @@
  </div>
 
 
-### Olá, meu nome é Leonam Henrique! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Partying Face" width="25" height="25" />
+### Olá <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Partying Face" width="25" height="25" />, meu nome é Leonam Henrique! 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <div>
