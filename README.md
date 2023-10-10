@@ -46,3 +46,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leonamh10&show_icons=true&theme=dracula" width="370px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamh10&layout=compact&theme=dracula" height="150px"/>
 </div>
+
+![Snake animation](https://github.com/leonamh10/leonamh10/blob/output/github-contribution-grid-snake.svg)
