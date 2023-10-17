@@ -1,6 +1,5 @@
 
-### Olá, meu nome é Leonam Henrique! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> 
-
+### Olá, meu nome é Leonam Henrique! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Partying Face" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <div>
@@ -29,15 +28,17 @@
 <br>
 <br>
 
-- ## Linguagens & Ferramentas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
+##  Linguagens & Ferramentas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
 
 <div style="display:inline-block; margin-top:35px">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px" height="50px">
-    <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="50px" height="50px">
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35"/>
     <br><br><br><br>
 </div style="align-items:center">
 
@@ -47,4 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonamh10&layout=compact&theme=dracula" height="150px"/>
 </div>
 
-![Snake animation](https://github.com/leonamh10/leonamh10/blob/output/github-contribution-grid-snake.svg)
+
+________________________________________________________________________________________________________________________________________________
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" />
